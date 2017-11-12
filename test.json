@@ -1,0 +1,1001 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('elmar%40elmarjansen.nl')/drive/root/children",
+    "value": [{
+        "createdBy": {
+            "application": {
+                "displayName": "HubbleBubble",
+                "id": "4c19aa42"
+            },
+            "device": {
+                "id": "18bffd43b0ad31"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2016-07-04T12:02:24.223Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITYzNjQwNi42MzYzMzE3NzY1MzI4NzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE2MzY0MDYuMA",
+        "id": "E358F49295AD3A08!636406",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "HubbleBubble",
+                "id": "4c19aa42"
+            },
+            "device": {
+                "id": "18bffd43b0ad31"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-06-16T02:40:53.287Z",
+        "name": "Apps",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 29969696,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9Fjjput2",
+        "fileSystemInfo": {
+            "createdDateTime": "2016-07-04T12:02:24.223Z",
+            "lastModifiedDateTime": "2016-07-04T12:02:24.223Z"
+        },
+        "folder": {
+            "childCount": 3,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        },
+        "specialFolder": {
+            "name": "apps"
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "1800008427748b"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "563cf24e-6fc0-4397-b028-828a54f3a6f0"
+            }
+        },
+        "createdDateTime": "2015-07-19T13:32:30.737Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITIzMzYzNi42MzYzNzI5NTQyNDA3MDAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCEyMzM2MzYuMA",
+        "id": "E358F49295AD3A08!233636",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "1800008427748b"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "563cf24e-6fc0-4397-b028-828a54f3a6f0"
+            }
+        },
+        "lastModifiedDateTime": "2017-08-02T18:30:24.07Z",
+        "name": "Archief",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 4363372733,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjjqEk",
+        "fileSystemInfo": {
+            "createdDateTime": "2014-12-12T20:56:04Z",
+            "lastModifiedDateTime": "2015-07-19T12:07:05Z"
+        },
+        "folder": {
+            "childCount": 9,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "Outlook (1st Party)",
+                "id": "48170ef2"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2017-07-26T22:51:58.113Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITc1MTUxNi42MzYzNjcwNjYyMjI3NzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NTE1MTYuMQ",
+        "id": "E358F49295AD3A08!751516",
+        "lastModifiedBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-07-26T22:57:02.277Z",
+        "name": "ArrowLauncher",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 2070203,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9Fjjre8c",
+        "fileSystemInfo": {
+            "createdDateTime": "2017-07-26T22:51:58.113Z",
+            "lastModifiedDateTime": "2017-07-26T22:51:58.113Z"
+        },
+        "folder": {
+            "childCount": 1,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "takenOrCreatedDateTime",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "5da2b07b-45d1-433d-bae1-f9c12507c78a"
+            }
+        },
+        "createdDateTime": "2017-07-20T11:05:09.623Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITc1MTM4Mi42MzY0MjQ2ODc1MjA1MzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NTEzODIuMA",
+        "id": "E358F49295AD3A08!751382",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "5da2b07b-45d1-433d-bae1-f9c12507c78a"
+            }
+        },
+        "lastModifiedDateTime": "2017-10-01T15:32:32.053Z",
+        "name": "Bin",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 69654,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9Fjjre4W",
+        "fileSystemInfo": {
+            "createdDateTime": "2017-07-20T11:04:53Z",
+            "lastModifiedDateTime": "2017-07-20T11:04:53Z"
+        },
+        "folder": {
+            "childCount": 2,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2017-07-05T22:44:22.267Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITc1MTA1NC42MzY0NTM4Mzk2MzcyMzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NTEwNTQuMA",
+        "id": "E358F49295AD3A08!751054",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-11-04T09:19:23.723Z",
+        "name": "Bureaublad",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 11180974,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjretO",
+        "fileSystemInfo": {
+            "createdDateTime": "2017-07-05T22:44:22.266Z",
+            "lastModifiedDateTime": "2017-07-05T22:44:22.266Z"
+        },
+        "folder": {
+            "childCount": 11,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        },
+        "specialFolder": {
+            "name": "desktop"
+        }
+    }, {
+        "createdBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2013-01-07T13:19:19.757Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITEwNi42MzY0NTk0NjEyNDYwMDAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCExMDYuMA",
+        "id": "E358F49295AD3A08!106",
+        "lastModifiedBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-11-10T21:28:44.6Z",
+        "name": "Documents",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 120088360134,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9Fjjag",
+        "fileSystemInfo": {
+            "createdDateTime": "2013-01-07T13:19:19.756Z",
+            "lastModifiedDateTime": "2013-01-07T13:19:19.757Z"
+        },
+        "folder": {
+            "childCount": 34,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        },
+        "specialFolder": {
+            "name": "documents"
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "563cf24e-6fc0-4397-b028-828a54f3a6f0"
+            }
+        },
+        "createdDateTime": "2016-01-24T13:10:22.33Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITQzMzMwMC42MzY0NDczMjk4MDk3MDAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE0MzMzMDAuMQ",
+        "id": "E358F49295AD3A08!433300",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "5da2b07b-45d1-433d-bae1-f9c12507c78a"
+            }
+        },
+        "lastModifiedDateTime": "2017-10-27T20:29:40.97Z",
+        "name": "Downloads",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 2927196342,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjmrkU",
+        "fileSystemInfo": {
+            "createdDateTime": "2017-07-05T22:43:18Z",
+            "lastModifiedDateTime": "2017-07-20T08:53:22Z"
+        },
+        "folder": {
+            "childCount": 4,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd43b0ad31"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "563cf24e-6fc0-4397-b028-828a54f3a6f0"
+            }
+        },
+        "createdDateTime": "2017-04-24T19:06:43.05Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITcxNjI5Mi42MzYzNjMxNzUzNzgwMDAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3MTYyOTIuMQ",
+        "id": "E358F49295AD3A08!716292",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd43b0ad31"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "563cf24e-6fc0-4397-b028-828a54f3a6f0"
+            }
+        },
+        "lastModifiedDateTime": "2017-07-22T10:52:17.8Z",
+        "name": "eBooks",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 399749589,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9Fjjq9wE",
+        "fileSystemInfo": {
+            "createdDateTime": "2017-04-24T18:29:56Z",
+            "lastModifiedDateTime": "2017-06-02T13:39:22Z"
+        },
+        "folder": {
+            "childCount": 9,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "5d1893e6-d99f-4bb1-b7c9-70538965808f"
+            }
+        },
+        "createdDateTime": "2015-05-21T21:28:20.997Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITIxNDUyMy42MzY0MjYzNzMxNzQ4NzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCEyMTQ1MjMuMQ",
+        "id": "E358F49295AD3A08!214523",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "OneDrive website",
+                "id": "44048800"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-10-03T14:21:57.487Z",
+        "name": "Music",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 67934661374,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjjYt7",
+        "fileSystemInfo": {
+            "createdDateTime": "2015-05-21T21:28:17Z",
+            "lastModifiedDateTime": "2015-08-10T22:34:46.043Z"
+        },
+        "folder": {
+            "childCount": 159,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        },
+        "specialFolder": {
+            "name": "music"
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "OneDrive website",
+                "id": "44048800"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2016-02-02T15:32:07.633Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITQ0MTcyMC42MzY0MjUyNDQ1Njg0NzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE0NDE3MjAuMA",
+        "id": "E358F49295AD3A08!441720",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "OneDrive website",
+                "id": "44048800"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-10-02T07:00:56.847Z",
+        "name": "Notes",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 126468042,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9Fjjmvp4",
+        "fileSystemInfo": {
+            "createdDateTime": "2016-02-02T15:32:07.633Z",
+            "lastModifiedDateTime": "2016-02-02T15:32:07.633Z"
+        },
+        "folder": {
+            "childCount": 11,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2013-01-07T13:19:19.657Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITEwNC42MzY0NTM0MjU5NjI0MDAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCExMDQuMA",
+        "id": "E358F49295AD3A08!104",
+        "lastModifiedBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-11-03T21:49:56.24Z",
+        "name": "Pictures",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 60431618873,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjaA",
+        "fileSystemInfo": {
+            "createdDateTime": "2013-01-07T13:19:19.656Z",
+            "lastModifiedDateTime": "2013-01-07T13:19:19.657Z"
+        },
+        "folder": {
+            "childCount": 37,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "takenOrCreatedDateTime",
+                "sortOrder": "ascending"
+            }
+        },
+        "specialFolder": {
+            "name": "photos"
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "a5ff0e70-f3b0-481f-be87-b1019127e79f"
+            }
+        },
+        "createdDateTime": "2016-12-28T22:26:32.73Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITY5OTI3OS42MzYzMjAwNzU2ODI3NzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE2OTkyNzkuMA",
+        "id": "E358F49295AD3A08!699279",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "a5ff0e70-f3b0-481f-be87-b1019127e79f"
+            }
+        },
+        "lastModifiedDateTime": "2017-06-02T13:39:28.277Z",
+        "name": "Program Files",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 1616346,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjqtcP",
+        "fileSystemInfo": {
+            "createdDateTime": "2014-07-04T13:02:20Z",
+            "lastModifiedDateTime": "2014-07-04T13:02:20Z"
+        },
+        "folder": {
+            "childCount": 2,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2013-01-07T13:19:19.69Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITEwNS42MzQ5MzE2MTU1OTY5MDAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCExMDUuMA",
+        "id": "E358F49295AD3A08!105",
+        "lastModifiedBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2013-01-07T13:19:19.69Z",
+        "name": "Public",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 0,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjaQ",
+        "fileSystemInfo": {
+            "createdDateTime": "2013-01-07T13:19:19.69Z",
+            "lastModifiedDateTime": "2013-01-07T13:19:19.69Z"
+        },
+        "folder": {
+            "childCount": 0,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        },
+        "shared": {
+            "owner": {
+                "user": {
+                    "displayName": "Elmar Jansen",
+                    "id": "e358f49295ad3a08"
+                }
+            },
+            "scope": "anonymous"
+        },
+        "specialFolder": {
+            "name": "public"
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "5d1893e6-d99f-4bb1-b7c9-70538965808f"
+            }
+        },
+        "createdDateTime": "2017-03-29T10:23:12.997Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITcwOTQwMS42MzYzNzg5MzUwMzM0NzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3MDk0MDEuMg",
+        "id": "E358F49295AD3A08!709401",
+        "lastModifiedBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-08-09T16:38:23.347Z",
+        "name": "Save Games",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 106081202,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9Fjjq6YZ",
+        "fileSystemInfo": {
+            "createdDateTime": "2017-03-27T21:10:03Z",
+            "lastModifiedDateTime": "2017-06-22T06:41:14.816Z"
+        },
+        "folder": {
+            "childCount": 6,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "name",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "createdBy": {
+            "application": {
+                "displayName": "Microsoft OneDrive",
+                "id": "4c075c15"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2016-06-28T21:45:57.197Z",
+        "cTag": "adDpFMzU4RjQ5Mjk1QUQzQTA4ITYzMzM1Mi42MzYzNTY4NDI2NjEwMzAwMDA",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE2MzMzNTIuMQ",
+        "id": "E358F49295AD3A08!633352",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "Microsoft OneDrive",
+                "id": "4c075c15"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-07-15T02:57:46.103Z",
+        "name": "Videos",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 3126821509,
+        "webUrl": "https://1drv.ms/f/s!AAg6rZWS9FjjptQI",
+        "fileSystemInfo": {
+            "createdDateTime": "2016-06-28T21:45:57.196Z",
+            "lastModifiedDateTime": "2016-06-28T22:38:42.62Z"
+        },
+        "folder": {
+            "childCount": 9,
+            "view": {
+                "viewType": "thumbnails",
+                "sortBy": "takenOrCreatedDateTime",
+                "sortOrder": "ascending"
+            }
+        }
+    }, {
+        "@microsoft.graph.downloadUrl": "https://wh6hxg-db3pap001.files.1drv.com/y4m2MbMszX2qhZx2qW_NSC80uHuju7JFXcoIMtUvrEz1wuTgfVvqLo4y4k22AEw7t6dfCMoMV_ty5_jdgmpGVbun-LRt7QlL1ELN8p01jO3UJs4RXoKbhl1jDG0Q9KEVWFC-ZX8QF6nABfYwCFVHKGf9PLfnB3Xdh_7CudQ0kbcojx3iJKrNSXOA06tslNZoDWw",
+        "createdBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2017-10-05T15:27:00.68Z",
+        "cTag": "aYzpFMzU4RjQ5Mjk1QUQzQTA4ITc1Njg4NS4yNjc",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NTY4ODUuMjI",
+        "id": "E358F49295AD3A08!756885",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-10-06T05:25:41.92Z",
+        "name": "Cijfers Takehome De Staat.xlsx",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 199974,
+        "webUrl": "https://1drv.ms/x/s!AAg6rZWS9FjjrpkV",
+        "file": {
+            "hashes": {
+                "sha1Hash": "DC14967BA27F32F44082FECFE3ED1803808236B3"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2017-10-05T15:27:00.68Z",
+            "lastModifiedDateTime": "2017-10-06T05:25:08.352Z"
+        }
+    }, {
+        "@microsoft.graph.downloadUrl": "https://wh6hxg-db3pap001.files.1drv.com/y4m-y7Le4YzmNl_0HGKOhg7rs9AFfYP6woMiAmqm5E-WRnZ12KQ5qn3cW-WZdpHghoztTpHGXcTtONtHrqKnAfc5vjzBmvvkJfnLsLoyeV_IhrvHlXSoOf_BQbtoLSC4mIycdnqoxR6Yzs5WF74Gyjz91CUC0EWhtqZ6KIh0qJ499SBOUor1FoS_w9BMGf70Ngy",
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2017-11-08T10:13:56.637Z",
+        "cTag": "aYzpFMzU4RjQ5Mjk1QUQzQTA4ITc3NDc5MC4yNjI",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NzQ3OTAuMjA",
+        "id": "E358F49295AD3A08!774790",
+        "lastModifiedBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-11-08T11:10:54.287Z",
+        "name": "Mailtje Myrte.docx",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 14275,
+        "webUrl": "https://1drv.ms/w/s!AAg6rZWS9Fjjr6UG",
+        "file": {
+            "hashes": {
+                "sha1Hash": "064CA03DEB917AD14C56EC2C8B36AC38CB28275A"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2017-11-08T10:13:56.636Z",
+            "lastModifiedDateTime": "2017-11-08T10:53:10.346Z"
+        }
+    }, {
+        "@microsoft.graph.downloadUrl": "https://wh6hxg-db3pap001.files.1drv.com/y4mRBX72idubRSPkEls3oPOB2zNN2A4pKtqNNSP-0oHmpiTUiHHecfACwuoezpObKnAJ4Elpa-waIzcCcEf3tNLBuSs5LQHddFv21Yb8KivhWK9WXRlLNE7FhquRRVSQSZFpYV9jg0P7ljv2_nwgD5nyA4JopGYU_qTG4VATuPgaVkwKdPKZgB6snHsd77bZxEl",
+        "createdBy": {
+            "application": {
+                "displayName": "OneDrive",
+                "id": "481710a4"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2017-11-09T10:22:56.56Z",
+        "cTag": "aYzpFMzU4RjQ5Mjk1QUQzQTA4ITc3NDgxMS4yNjU",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NzQ4MTEuMTQ",
+        "id": "E358F49295AD3A08!774811",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-11-09T11:46:00.663Z",
+        "name": "Paperopzet Clara Keuken.docx",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 80407,
+        "webUrl": "https://1drv.ms/w/s!AAg6rZWS9Fjjr6Ub",
+        "file": {
+            "hashes": {
+                "sha1Hash": "50EC4B8A3D24238215B943CB9419D9E6E1082826"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2017-11-09T10:22:56.56Z",
+            "lastModifiedDateTime": "2017-11-09T10:24:44.34Z"
+        }
+    }, {
+        "@microsoft.graph.downloadUrl": "https://wh6hxg-db3pap001.files.1drv.com/y4mEZI0X4p4mPdRTsubw5leoBGI5ah6P2xKeyNkAKeWw1yOiNs625QJV4ae3ocKinLq7HMzCPzbsqpFS3c5GfAg5DnP9IDV6lw5yb5SvM7d43E4M3XyUYflgCwLJuFMC6MZoDFLyQsqu3cnt9o2DITosI2l1N_az02mzLjNfW5Ad2_QNpRwaS5Ck0li7WQSag0c",
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "createdDateTime": "2017-10-11T13:09:06.477Z",
+        "cTag": "aYzpFMzU4RjQ5Mjk1QUQzQTA4ITc1Njk0NC4zNzM",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NTY5NDQuMzcx",
+        "id": "E358F49295AD3A08!756944",
+        "lastModifiedBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-11-09T11:46:03.18Z",
+        "name": "SM_1718_WG11_Economie.docx",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 41285,
+        "webUrl": "https://1drv.ms/w/s!AAg6rZWS9FjjrplQ",
+        "file": {
+            "hashes": {
+                "sha1Hash": "B2FE830223529FC7D1F8EDD3F0EB8A8944B65EAE"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2017-10-11T13:09:06.476Z",
+            "lastModifiedDateTime": "2017-10-17T12:24:57.38Z"
+        }
+    }, {
+        "@microsoft.graph.downloadUrl": "https://public-db3pap001.files.1drv.com/y4mwjxjBybLdposvcdk5kdP7CahmSBCH4-wBIlrLpgcqpSq7lUnaK01rm3WbhouarEe_9IILYK3UVCUYwNokS53PNxIHpFBLuIlUlfoGay1Xvr-bkLcbfmMqLnwlrwVbdYTd2Om6EdJzyYr0XlImxAKeqwkXXN7yMfoGjxhiJ11Qw4yWj1odj4JT6a4gfdY4OIpztPfTfNrx2tJkzjHtZPsJKdJXYVDuUnwvr79taAVv6E",
+        "createdBy": {
+            "application": {
+                "displayName": "MSOffice15",
+                "id": "480728c5"
+            },
+            "device": {
+                "id": "18bffd425a2b34"
+            },
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            },
+            "oneDriveSync": {
+                "@odata.type": "#microsoft.graph.identity",
+                "id": "fbd2e088-2c74-41c8-b69b-23033b1a8da0"
+            }
+        },
+        "createdDateTime": "2017-11-09T10:25:10.207Z",
+        "cTag": "aYzpFMzU4RjQ5Mjk1QUQzQTA4ITc3NDgxMy4yNTc",
+        "eTag": "aRTM1OEY0OTI5NUFEM0EwOCE3NzQ4MTMuMw",
+        "id": "E358F49295AD3A08!774813",
+        "lastModifiedBy": {
+            "user": {
+                "displayName": "Elmar Jansen",
+                "id": "e358f49295ad3a08"
+            }
+        },
+        "lastModifiedDateTime": "2017-11-09T10:34:57.663Z",
+        "name": "voorbeeld opzet.pdf",
+        "parentReference": {
+            "driveId": "e358f49295ad3a08",
+            "id": "E358F49295AD3A08!103",
+            "path": "/drive/root:"
+        },
+        "size": 155482,
+        "webUrl": "https://1drv.ms/b/s!AAg6rZWS9Fjjr6Ud",
+        "file": {
+            "hashes": {
+                "sha1Hash": "5BF4118DF8C8E5798424515F3F559D7AAFE5A2BA"
+            },
+            "mimeType": "application/pdf"
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2017-11-09T10:24:58Z",
+            "lastModifiedDateTime": "2017-11-09T10:24:58Z"
+        }
+    }]
+}
